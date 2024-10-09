@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeelBareja
-- 👀 I’m interested in working as a Softwareystem consultant or Business Analyst.
+- 👀 I’m interested in working as a freelance Software consultant or Business Analyst.
 - 🌱 I’m currently seeking an intern position as a Business Analyst.
 - 💞️ I’m looking to collaborate on any simple project based on business development.
 - 📫 How to reach me ...
