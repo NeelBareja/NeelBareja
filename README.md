@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeelBareja
-- 👀 I’m interested in working as a freelance Software consultant and Business Analyst.
-- 🌱 I’m currently seeking an intern position as a Business Analyst.
-- 💞️ I’m looking to collaborate on any simple project based on business development.
+- 👀 I’m interested in working as a web3 consultant and web3 developer.
+- 🌱 I’m seeking an opportunity to engage in a web3 project.
+- 💞️ I’m looking to collaborate on any type of strat up development.
 - 📫 How to reach me ...
 - Email:- neelbareja1@gmail.com
 
